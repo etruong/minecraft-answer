@@ -7,7 +7,13 @@
     border: red 5px solid;
     padding: 10px;
     border-radius: 100px;
-    display: none;
+    /* REMOVE STYLE HERE: */
+    /* display: none; */
+}
+
+/* STEP 3: */
+#c1 .rock:hover {
+    background-image: url("./img/mystery-5.png");
 }
 
 #c1 .object  {
